@@ -1,0 +1,29 @@
+[
+  {
+      "titulo": "20% de descuento en electrónicos",
+      "tienda": "Amazon",
+      "descuento": "20%",
+      "codigo": "ELEC20",
+      "link": "https://www.amazon.com",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "fecha_validez": "2025-12-31"
+  },
+  {
+      "titulo": "Envío gratis en compras mayores a 50€",
+      "tienda": "Amazon",
+      "descuento": "Envío gratis",
+      "codigo": "",
+      "link": "https://www.amazon.com",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "fecha_validez": "2024-06-15"
+  },
+  {
+      "titulo": "10€ de descuento en libros",
+      "tienda": "Amazon",
+      "descuento": "10€",
+      "codigo": "LIBROS10",
+      "link": "https://www.amazon.com",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "fecha_validez": "2024-03-10"
+  }
+]
