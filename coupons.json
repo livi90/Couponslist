@@ -1,12 +1,12 @@
 [
   {
-      "titulo": "20% de descuento en electrónicos",
-      "tienda": "Amazon",
-      "descuento": "20%",
-      "codigo": "ELEC20",
-      "link": "https://www.amazon.com",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-      "fecha_validez": "2025-12-31"
+      "titulo": "-8€ pedidos +59€",
+      "tienda": "Aliexpress",
+      "descuento": "-8€ pedidos +59€",
+      "codigo": "ASES08",
+      "link": "https://es.aliexpress.com/",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aliexpress_logo.svg/306px-Aliexpress_logo.svg.png",
+      "fecha_validez": "2025-03-17"
   },
   {
       "titulo": "Envío gratis en compras mayores a 50€",
