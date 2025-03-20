@@ -8,6 +8,24 @@
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aliexpress_logo.svg/306px-Aliexpress_logo.svg.png",
       "fecha_validez": "2025-03-22"
   },
+    {
+      "titulo": "-116,82€ dto.",
+      "tienda": "Aliexpress",
+      "descuento": "-8€ pedidos +59€",
+      "codigo": "35I97GVHHWTQ",
+      "link": "https://es.aliexpress.com/",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aliexpress_logo.svg/306px-Aliexpress_logo.svg.png",
+      "fecha_validez": "2025-03-25"
+  },
+  {
+      "titulo": "-2€ pedidos +19€",
+      "tienda": "Aliexpress",
+      "descuento": "-2€ pedidos +19€€",
+      "codigo": "ASES02",
+      "link": "https://es.aliexpress.com/",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aliexpress_logo.svg/306px-Aliexpress_logo.svg.png",
+      "fecha_validez": "2025-03-27"
+  },
   {
       "titulo": "Envío gratis en compras mayores a 50€",
       "tienda": "Amazon",
