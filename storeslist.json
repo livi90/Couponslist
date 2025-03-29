@@ -1,0 +1,170 @@
+{
+  "ecommerce_sites": [
+    {
+      "nombre": "Amazon España",
+      "dominio": "amazon.es"
+    },
+    {
+      "nombre": "Milanuncios",
+      "dominio": "milanuncios.com"
+    },
+    {
+      "nombre": "El Corte Inglés",
+      "dominio": "elcorteingles.es"
+    },
+    {
+      "nombre": "AliExpress España",
+      "dominio": "es.aliexpress.com"
+    },
+    {
+      "nombre": "Carrefour España",
+      "dominio": "carrefour.es"
+    },
+    {
+      "nombre": "MediaMarkt España",
+      "dominio": "mediamarkt.es"
+    },
+    {
+      "nombre": "Zara España",
+      "dominio": "zara.com/es/"
+    },
+    {
+      "nombre": "Decathlon España",
+      "dominio": "decathlon.es"
+    },
+    {
+      "nombre": "PcComponentes",
+      "dominio": "pccomponentes.com"
+    },
+    {
+      "nombre": "Sephora España",
+      "dominio": "sephora.es"
+    }
+  ],
+  "fashion_retail_sites": [
+    {
+      "nombre": "Bershka",
+      "dominio": "bershka.com"
+    },
+    {
+      "nombre": "Pull & Bear",
+      "dominio": "pullandbear.com"
+    },
+    {
+      "nombre": "PrettyLittleThing",
+      "dominio": "prettylittlething.com"
+    },
+    {
+      "nombre": "Shein España",
+      "dominio": "shein.com"
+    },
+    {
+      "nombre": "H&M España",
+      "dominio": "hm.com/es"
+    },
+    {
+      "nombre": "Stradivarius",
+      "dominio": "stradivarius.com"
+    },
+    {
+      "nombre": "ASOS",
+      "dominio": "asos.com"
+    },
+    {
+      "nombre": "Mango",
+      "dominio": "shop.mango.com/es"
+    },
+    {
+      "nombre": "Springfield",
+      "dominio": "myspringfield.com"
+    },
+    {
+      "nombre": "Primark",
+      "dominio": "primark.com/es"
+    }
+  ],
+  "beauty_and_cosmetics_sites": [
+    {
+      "nombre": "Primor",
+      "dominio": "primor.eu"
+    },
+    {
+      "nombre": "Druni",
+      "dominio": "druni.es"
+    },
+    {
+      "nombre": "Telva",
+      "dominio": "telva.com"
+    },
+    {
+      "nombre": "Fragrantica",
+      "dominio": "fragrantica.es"
+    },
+    {
+      "nombre": "Sephora España",
+      "dominio": "sephora.es"
+    },
+    {
+      "nombre": "Notino",
+      "dominio": "notino.es"
+    },
+    {
+      "nombre": "Abroparaguas",
+      "dominio": "abroparaguas.com"
+    },
+    {
+      "nombre": "Promofarma",
+      "dominio": "promofarma.com"
+    },
+    {
+      "nombre": "Perfume's Club",
+      "dominio": "perfumesclub.com"
+    },
+    {
+      "nombre": "Douglas España",
+      "dominio": "douglas.es"
+    }
+  ],
+  "airline_sites": [
+    {
+      "nombre": "Skyscanner España",
+      "dominio": "skyscanner.es"
+    },
+    {
+      "nombre": "Ryanair",
+      "dominio": "ryanair.com"
+    },
+    {
+      "nombre": "Iberia",
+      "dominio": "iberia.com"
+    },
+    {
+      "nombre": "Idealo España",
+      "dominio": "idealo.es"
+    },
+    {
+      "nombre": "Vueling",
+      "dominio": "vueling.com"
+    },
+    {
+      "nombre": "eDreams España",
+      "dominio": "edreams.es"
+    },
+    {
+      "nombre": "Preferente",
+      "dominio": "preferente.com"
+    },
+    {
+      "nombre": "Kiwi.com",
+      "dominio": "kiwi.com"
+    },
+    {
+      "nombre": "KAYAK España",
+      "dominio": "kayak.es"
+    },
+    {
+      "nombre": "Air Europa",
+      "dominio": "aireuropa.com"
+    }
+  ]
+}
